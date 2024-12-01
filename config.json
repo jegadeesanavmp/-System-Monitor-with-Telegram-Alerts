@@ -1,0 +1,1 @@
+{"usb_port": "/dev/cu.usbserial-10", "baud_rate": 9600, "telegram_bot_token": "7887272908:AAG9-qw9ppn1IGnypBob3c2Azkm__oosGjg", "telegram_chat_id": "1318642270", "check_interval": 2, "anomaly_threshold": 0.41, "enable_telegram_alerts": true, "last_known_status": "offline"}
